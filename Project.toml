@@ -1,0 +1,11 @@
+name = "TestTask"
+uuid = "9cc97272-4e9c-4953-9041-5ab98e1d5db6"
+authors = ["Raduser <threadexec@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ExtensibleEffects = "67377c25-f533-4d0b-9328-1721380cc1f1"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Lazy = "50d2b5c4-7a5e-59d5-8109-a42b560f39c0"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TypeClasses = "addcc920-e0cf-11e8-30b7-0fb08706b574"
